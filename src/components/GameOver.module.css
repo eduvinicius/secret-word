@@ -1,0 +1,8 @@
+.gameOver h1, h2 {
+    color: #000;
+}
+
+.gameOver h2 span {
+    color: #1646a0;
+    font-size: 1.5em;
+}

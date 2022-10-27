@@ -1,0 +1,15 @@
+.start {
+    margin-bottom: 3em;
+}
+
+.start h1 {
+    font-size: 3.5em;
+    color: #000;
+}
+
+.start p {
+    margin-bottom: 2em;
+    color: #000;
+    font-weight: bold;
+    font-size: 1.2em;
+}
